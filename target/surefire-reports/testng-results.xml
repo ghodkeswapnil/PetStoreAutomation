@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-05T09:13:21 IST" name="PetSuite" finished-at="2024-05-05T09:13:30 IST" duration-ms="8702">
+    <groups>
+    </groups>
+    <test started-at="2024-05-05T09:13:21 IST" name="PetTest" finished-at="2024-05-05T09:13:30 IST" duration-ms="8702">
+      <class name="api.tests.UserTests2">
+        <test-method is-config="true" signature="setup()[pri:0, instance:api.tests.UserTests2@25084a1e]" started-at="2024-05-05T09:13:22 IST" name="setup" finished-at="2024-05-05T09:13:22 IST" duration-ms="660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testPostRequest()[pri:1, instance:api.tests.UserTests2@25084a1e]" started-at="2024-05-05T09:13:22 IST" name="testPostRequest" finished-at="2024-05-05T09:13:26 IST" duration-ms="3711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostRequest -->
+        <test-method signature="testGetRequest()[pri:2, instance:api.tests.UserTests2@25084a1e]" started-at="2024-05-05T09:13:26 IST" name="testGetRequest" finished-at="2024-05-05T09:13:27 IST" duration-ms="1132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetRequest -->
+        <test-method signature="testUpdateRequest()[pri:3, instance:api.tests.UserTests2@25084a1e]" started-at="2024-05-05T09:13:27 IST" name="testUpdateRequest" finished-at="2024-05-05T09:13:29 IST" duration-ms="1623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateRequest -->
+        <test-method signature="deleteRequest()[pri:4, instance:api.tests.UserTests2@25084a1e]" started-at="2024-05-05T09:13:29 IST" name="deleteRequest" finished-at="2024-05-05T09:13:30 IST" duration-ms="1238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteRequest -->
+      </class> <!-- api.tests.UserTests2 -->
+    </test> <!-- PetTest -->
+  </suite> <!-- PetSuite -->
+</testng-results>
